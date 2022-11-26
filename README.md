@@ -1,4 +1,7 @@
 
+![Logo](https://github.com/harshsingh-io/calculator/blob/main/ic_launcher.png?raw=true)
+
+
 # Calculator
 
 Calculator provides simple and advanced mathematical functions in a beautifully designed app.
@@ -25,9 +28,6 @@ I'm a full stack android developer...
 
 ## 🛠 Skills
 Java, Kotlin, DSA, Problem Solving, Android Development
-
-
-![Logo](https://raw.githubusercontent.com/harshsingh-io/raw/main/Picsart_22-10-11_10-11-40-589.png)
 
 
 ## Screenshots
